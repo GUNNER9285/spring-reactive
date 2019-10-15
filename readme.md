@@ -13,5 +13,6 @@
 ## ฝึกอะไรบ้าง ?
 
 * Initial Project - 13/09/2019
-* write logging with Slf4j - 13/09/2019
-* write controller - 13/09/2019
+* create logging with Slf4j - 13/09/2019
+* create controller - 13/09/2019
+* create reactiveElasticsearch - 15/10/2019
